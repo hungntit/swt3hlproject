@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_wirecard_eft_title</key>
+      <value><![CDATA[Wire Card EFT]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_description</key>
+      <value><![CDATA[Những giao dịch Wire Card EFT ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_method_title</key>
+      <value><![CDATA[Chuyển khoản ngân hàng]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_bank_owner</key>
+      <value><![CDATA[Chủ sở hữu tài khoản Tên:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_bank_owner_firstname</key>
+      <value><![CDATA[Chủ sở hữu tài khoản Tên:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_bank_owner_lastname</key>
+      <value><![CDATA[Chủ sở hữu tài khoản Họ:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_account_type</key>
+      <value><![CDATA[Loại Tài Khoản:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_account_type_checking</key>
+      <value><![CDATA[Kiểm tra]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_account_type_savings</key>
+      <value><![CDATA[Tiết kiệm]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_bank_account_number</key>
+      <value><![CDATA[Số Tài Khoản:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_bank_code</key>
+      <value><![CDATA[Mã Ngân Hàng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_check_number</key>
+      <value><![CDATA[Số Séc:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_id_number</key>
+      <value><![CDATA[Số Nhận dạng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_js_error</key>
+      <value><![CDATA[* Tất cả các thông tin đều bắt buộc.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_wirecard_eft_error_general</key>
+      <value><![CDATA[Có một vấn đề xử lý tài khoản ngân hàng này. Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

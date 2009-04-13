@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_cc_title</key>
+      <value><![CDATA[Thẻ tín dụng]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_description</key>
+      <value><![CDATA[Kiểm tra thông tin thẻ tín dụng:<br /><br />CC#: 4111111111111111<br />Thời hạn: Bất kỳ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_method_title</key>
+      <value><![CDATA[Thẻ tín dụng]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_credit_card_owner</key>
+      <value><![CDATA[Chủ sở hữu thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_credit_card_number</key>
+      <value><![CDATA[Số thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_credit_card_expiry_date</key>
+      <value><![CDATA[Thời hạn Thẻ tín dụng :]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_js_credit_card_owner</key>
+      <value><![CDATA[* Tên chủ sở hữu của thẻ tín dụng phải có ít nhất %s ký tự.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_js_credit_card_number</key>
+      <value><![CDATA[* Số thẻ tín dụng phải có ít nhất %s ký tự.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_js_credit_card_not_accepted</key>
+      <value><![CDATA[* Đây là loại thẻ tín dụng không được chấp nhận. Xin vui lòng thử lại với thẻ khác hoặc các phương thức thanh toán khác.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_error_general</key>
+      <value><![CDATA[Có một vấn đề khi xử lý thẻ tín dụng này. Xin vui lòng kiểm tra thông tin thẻ và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_error_not_accepted</key>
+      <value><![CDATA[Đây là loại thẻ tín dụng không được chấp nhận. Xin vui lòng thử lại với thẻ khác hoặc các phương thức thanh toán khác.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_error_invalid_expiration_date</key>
+      <value><![CDATA[Ngày hết hạn Thẻ tín dụng không hợp lệ. Xin vui lòng kiểm tra thông tin thẻ và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_error_expired</key>
+      <value><![CDATA[Thẻ tín dụng đã hết hạn. Xin vui lòng thử lại với thẻ khác hoặc các phương thức thanh toán khác.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_cc_error_unknown_card</key>
+      <value><![CDATA[Đây là một thẻ tín dụng mà không xác định rõ ,có thể không được xử lý. Xin vui lòng thử lại với thẻ khác hoặc các phương thức thanh toán khác.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

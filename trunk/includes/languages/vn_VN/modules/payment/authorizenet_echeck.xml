@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_authorizenet_echeck_title</key>
+      <value><![CDATA[Authorize.net eCheck]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_description</key>
+      <value><![CDATA[Giao dịch Authorize.net eCheck ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_method_title</key>
+      <value><![CDATA[Ngân hàng / Kiểm tra tài khoản]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_owner</key>
+      <value><![CDATA[Chủ sở hữu tài khoản:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_account_type</key>
+      <value><![CDATA[Loại Tài Khoản:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_account_type_checking</key>
+      <value><![CDATA[Kiểm tra]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_account_type_business_checking</key>
+      <value><![CDATA[Kiểm tra kinh doanh]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_account_type_savings</key>
+      <value><![CDATA[Tiết kiệm]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_account_number</key>
+      <value><![CDATA[Số Tài Khoản:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_bank_name</key>
+      <value><![CDATA[Tên ngân hàng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_routing_code</key>
+      <value><![CDATA[Mã số định tuyến:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_tax_id</key>
+      <value><![CDATA[Thuế ID hoặc SSN:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_org_type</key>
+      <value><![CDATA[Loại hình tổ chức:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_org_type_individual</key>
+      <value><![CDATA[Cá nhân]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_org_type_business</key>
+      <value><![CDATA[Doanh nghiệp]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_js_owner</key>
+      <value><![CDATA[* Vui lòng nhập tên của chủ sở hữu tài khoản ngân hàng.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_js_account_number</key>
+      <value><![CDATA[* Xin vui lòng nhập số tài khoản của tài khoản ngân hàng.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_js_bank_name</key>
+      <value><![CDATA[* Vui lòng nhập tên ngân hàng của tài khoản ngân hàng.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_js_rThe bank routing code must consist of %s numbersouting_code</key>
+      <value><![CDATA[* Mã định tuyến ngân hàng phải gồm %s số.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_js_tax_id</key>
+      <value><![CDATA[* Thuế ID or SSN phải gồm of %s số.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_error_general</key>
+      <value><![CDATA[Có một vấn đề xử lý tài khoản ngân hàng này. Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_error_routing_code</key>
+      <value><![CDATA[Mã định tuyến ngân hàng phải gồm %s số .Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_error_invalid_routing_code</key>
+      <value><![CDATA[Có một vấn đề khi xử lý các mã định tuyến ngân hàng . Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_error_invalid_account</key>
+      <value><![CDATA[Có một vấn đề xử lý số tài khoản ngân hàng. Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_error_tax_id</key>
+      <value><![CDATA[Thuế ID or SSN phải gồm %s số. Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_error_invalid_tax_id</key>
+      <value><![CDATA[Có một vấn đề xử lý thuế ID hoặc SSN. Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_authorizenet_echeck_confirmation_message</key>
+      <value><![CDATA[Bắng cách xác nhận yêu cầu này tôi cho phép %s chi phí %s tài khoản trên %s cho số lượng %s của những món hàng trong đơn đặt hàng.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

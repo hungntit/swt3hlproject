@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_ordering_steps_heading</key>
+      <value><![CDATA[Các bước đặt hàng]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_delivery</key>
+      <value><![CDATA[Thông tin giao hàng]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_payment</key>
+      <value><![CDATA[Thông tin thanh toán]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_confirmation</key>
+      <value><![CDATA[Xác nhận]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_complete</key>
+      <value><![CDATA[Hoàn tất!]]></value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

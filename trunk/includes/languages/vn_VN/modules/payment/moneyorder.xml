@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_moneyorder_title</key>
+      <value><![CDATA[Đơn hàng tiền/chi phiếu]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_moneyorder_description</key>
+      <value><![CDATA[Thực hiện thanh toán:&nbsp;%s<br /><br />Send To:<br />%s<br /><br />Đơn đặt hàng của bạn sẽ không gửi cho đến khi chúng tôi nhận được thanh toán.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_moneyorder_email_footer</key>
+      <value><![CDATA[Thực hiên thanh toán: %s
+
+Gửi tới:
+%
+
+Đơn đặt hàng của bạn sẽ không được chuyển tới cho đến khi chúng tôi nhận được thanh toán.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>
