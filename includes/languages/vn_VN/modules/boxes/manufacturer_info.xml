@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_manufacturer_info_heading</key>
+      <value><![CDATA[Thông tin nhà sản xuất]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_manufacturer_info_website</key>
+      <value><![CDATA[Đến %s's web site]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_manufacturer_info_products</key>
+      <value><![CDATA[Xem sản phẩm khác]]></value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_psigate_title</key>
+      <value><![CDATA[PSiGate]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_description</key>
+      <value><![CDATA[Kiểm tra thông tin Thẻ tín dụng:<br /><br />CC#: 4111111111111111<br />Thời hạn : bất kỳ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_credit_card_owner</key>
+      <value><![CDATA[Chủ sở hữu thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_credit_card_number</key>
+      <value><![CDATA[Số thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_credit_card_expiry_date</key>
+      <value><![CDATA[Thời hạn Thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_credit_card_type</key>
+      <value><![CDATA[Loại:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_js_credit_card_number</key>
+      <value><![CDATA[* Số thẻ tín dụng phải có ít nhất ' . CC_NUMBER_MIN_LENGTH . ' ký tự.\n]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_error_message</key>
+      <value><![CDATA[Có một lỗi đã được xử lý thẻ tín dụng của bạn. Xin vui lòng thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_psigate_error</key>
+      <value><![CDATA[Thẻ tín dụng Lỗi!]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

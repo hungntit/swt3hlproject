@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>shipping_zones_title</key>
+      <value><![CDATA[Đánh giá khu vực]]></value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_description</key>
+      <value><![CDATA[Đánh giá cơ sở khu vực]]></value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_method</key>
+      <value><![CDATA[Chuyển hàng tới]]></value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_invalid_zone</key>
+      <value><![CDATA[Không có dịch vụ chuyển hàng đến Quốc gia được chọn]]></value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_undefined_rate</key>
+      <value><![CDATA[Tỉ lệ chuyển hàng không thể xac định vào lúc này]]></value>
+      <group>modules-shipping</group>
+    </definition>
+  </definitions>
+</language>

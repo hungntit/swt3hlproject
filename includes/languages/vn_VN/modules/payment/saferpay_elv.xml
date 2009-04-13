@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_saferpay_elv_title</key>
+      <value><![CDATA[Chuyển khoản ngân hàng qua Saferpay  ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_elv_description</key>
+      <value><![CDATA[Những giao dịch chuyển khoản ngân hàn qua Saferpay]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_elv_method_title</key>
+      <value><![CDATA[Chuyển khoản ngân hàng]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_elv_bank_owner</key>
+      <value><![CDATA[Chủ sở hữu tài khoản Tên:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_elv_bank_account_number</key>
+      <value><![CDATA[Số Tài Khoản:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_elv_bank_code</key>
+      <value><![CDATA[Mã ngân hàng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_elv_js_error</key>
+      <value><![CDATA[* Tất cả các thông tin đều bắt buộc.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_elv_error_general</key>
+      <value><![CDATA[Có một vấn đề xử lý tài khoản ngân hàng này. Xin vui lòng kiểm tra thông tin tài khoản và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

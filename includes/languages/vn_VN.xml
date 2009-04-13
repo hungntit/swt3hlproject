@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <data>
+    <title><![CDATA[Vietnam]]></title>
+    <code><![CDATA[vn_VN]]></code>
+    <locale><![CDATA[vn_VN.UTF-8,vn_VN,vietnam]]></locale>
+    <character_set><![CDATA[utf-8]]></character_set>
+    <text_direction><![CDATA[ltr]]></text_direction>
+    <date_format_short><![CDATA[%d/%m/%Y]]></date_format_short>
+    <date_format_long><![CDATA[%A %d %B, %Y]]></date_format_long>
+    <time_format><![CDATA[%H:%M:%S]]></time_format>
+    <default_currency><![CDATA[VND]]></default_currency>
+    <numerical_decimal_separator><![CDATA[.]]></numerical_decimal_separator>
+    <numerical_thousands_separator><![CDATA[,]]></numerical_thousands_separator>
+    <parent_language_code><![CDATA[]]></parent_language_code>
+  </data>
+    <definitions>
+    <definition>
+      <key>my_account</key>
+      <value><![CDATA[Tài Khoản]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>cart_contents</key>
+      <value><![CDATA[Giỏ Hàng]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>checkout</key>
+      <value><![CDATA[Thanh Toán]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_top</key>
+      <value><![CDATA[Trên]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shop</key>
+      <value><![CDATA[Mua Sắm Trực Tuyến]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_in</key>
+      <value><![CDATA[Đăng Nhập]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_out</key>
+      <value><![CDATA[Thoát]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>gender_male</key>
+      <value><![CDATA[Nam]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>gender_female</key>
+      <value><![CDATA[Nữ]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>pull_down_default</key>
+      <value><![CDATA[Hãy Chọn]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error</key>
+      <value><![CDATA[Lỗi điền thông tin.\n\nKiểm tra các lỗi sau:\n\n]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error_already_submitted</key>
+      <value><![CDATA[Thông tin đã được yêu cầu xử lý. Nhấn Ok và đợi trong vài giây.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>form_required_information</key>
+      <value><![CDATA[* Thông tin bắt buộc]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_current_page</key>
+      <value><![CDATA[Trang %s của %d]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_products</key>
+      <value><![CDATA[Xem <b>%d</b> tới <b>%d</b> (của <b>%d</b> sản phẩm)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_orders</key>
+      <value><![CDATA[Xem <b>%d</b> tới <b>%d</b> (của <b>%d</b> đơn hàng)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_reviews</key>
+      <value><![CDATA[Xem <b>%d</b> tới <b>%d</b> (của <b>%d</b> Nhận xét)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_previous_page</key>
+      <value><![CDATA[[&lt;&lt;&nbsp;Trước]]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_next_page</key>
+      <value><![CDATA[[Tiếp &nbsp;&gt;&gt;]]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_address</key>
+      <value><![CDATA[Thêm Địa chỉ]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_back</key>
+      <value><![CDATA[Quay Lại]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_buy_now</key>
+      <value><![CDATA[Mua]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_change_address</key>
+      <value><![CDATA[Thay đổi Địa chỉ]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_checkout</key>
+      <value><![CDATA[Thanh Toán]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_confirm_order</key>
+      <value><![CDATA[Xác đặt hàng]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_continue</key>
+      <value><![CDATA[Tiếp tục]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_delete</key>
+      <value><![CDATA[Xóa]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_edit</key>
+      <value><![CDATA[Thay đổi]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_view</key>
+      <value><![CDATA[Xem]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_sign_in</key>
+      <value><![CDATA[Đăng nhập]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_to_cart</key>
+      <value><![CDATA[Thêm vào giỏ hàng]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_reviews</key>
+      <value><![CDATA[Nhận xét]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_search</key>
+      <value><![CDATA[Tìm kiếm]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_update_cart</key>
+      <value><![CDATA[cập nhật giỏ hàng]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_write_review</key>
+      <value><![CDATA[Viết nhận xét]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>icon_in_cart</key>
+      <value><![CDATA[Thêm vào giỏ hàng]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>tax_rate_unknown</key>
+      <value><![CDATA[Thuế]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>footer</key>
+      <value><![CDATA[Copyright &copy; %s <a href="%s">%s</a><br />Powered by <a href="http://www.oscommerce.com" target="_blank">osCommerce</a>]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>index_heading</key>
+      <value><![CDATA[Chào mừng %s!]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>index_text</key>
+      <value><![CDATA[This is a default setup of the osCommerce e-commerce shopping cart solution, products shown are for demonstrational purposes, <b>any products purchased will not be delivered nor will the customer be billed</b>. Any information seen on these products is to be treated as fictional.]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_image_heading</key>
+      <value><![CDATA[]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_model_heading</key>
+      <value><![CDATA[Kiểu]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_products_heading</key>
+      <value><![CDATA[Sản phẩm]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_manufacturer_heading</key>
+      <value><![CDATA[Nhà sản xuất]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_quantity_heading</key>
+      <value><![CDATA[Số lượng]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_price_heading</key>
+      <value><![CDATA[Giá]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_weight_heading</key>
+      <value><![CDATA[Trọng lượng]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_buy_now_heading</key>
+      <value><![CDATA[Mua]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>no_products_in_category</key>
+      <value><![CDATA[Không có sản phẩm nào trong mục này.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_show</key>
+      <value><![CDATA[Hiện:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_categories</key>
+      <value><![CDATA[Tất cả các mục]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_manufacturers</key>
+      <value><![CDATA[Tất cả nhà sản xuất]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>greeting_guest</key>
+      <value><![CDATA[Chào mừng! <a href="%s">Đăng nhập</a> và xem <a href="%s">thông tin mới cập nhật</a>.]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>greeting_customer</key>
+      <value><![CDATA[Chào mừng trở lại %s! Hãy xem <a href="%s">thông tin mới cập nhật</a> !]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_sort_ascendingly</key>
+      <value><![CDATA[Sắp xếp theo %s tăng dần]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_sort_descendingly</key>
+      <value><![CDATA[Sắp xếp theo %s giảm dần]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_in</key>
+      <value><![CDATA[Đăng nhập]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_out</key>
+      <value><![CDATA[Thoát]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_account</key>
+      <value><![CDATA[Tài khoản]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_account</key>
+      <value><![CDATA[Đổi tài khoản]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_password</key>
+      <value><![CDATA[Đổi mật khẩu]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_orders</key>
+      <value><![CDATA[Đơn hàng]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_order_information</key>
+      <value><![CDATA[Đơn hàng #%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_newsletters</key>
+      <value><![CDATA[Thư mới]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_notifications</key>
+      <value><![CDATA[Thông báo]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book</key>
+      <value><![CDATA[Sổ địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_add_entry</key>
+      <value><![CDATA[Thêm địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_edit_entry</key>
+      <value><![CDATA[Thay đổi địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_delete_entry</key>
+      <value><![CDATA[Xóa địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_create_account</key>
+      <value><![CDATA[Tạo một tài khoản]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_password_forgotten</key>
+      <value><![CDATA[Quên mật khẩu]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_in_heading</key>
+      <value><![CDATA[Chào mừng, hãy đăng nhập]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_out_heading</key>
+      <value><![CDATA[Thoát khỏi tài khoản]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_heading</key>
+      <value><![CDATA[Tài khoản]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_edit_heading</key>
+      <value><![CDATA[Thông tin tài khoản]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_password_heading</key>
+      <value><![CDATA[Mật khẩu]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>orders_heading</key>
+      <value><![CDATA[Đơn hàng]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_information_heading</key>
+      <value><![CDATA[Thông tin đơn hàng #%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletters_heading</key>
+      <value><![CDATA[Bản tin định kỳ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>notifications_heading</key>
+      <value><![CDATA[Thông báo sản phẩm]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_heading</key>
+      <value><![CDATA[Địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_add_entry_heading</key>
+      <value><![CDATA[Danh mục địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_edit_entry_heading</key>
+      <value><![CDATA[Thay đổi danh mục địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_entry_heading</key>
+      <value><![CDATA[Xóa danh mục địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_heading</key>
+      <value><![CDATA[Tạo tài khoản]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_success_heading</key>
+      <value><![CDATA[Tài khoản của bạn đã được tạo!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_heading</key>
+      <value><![CDATA[Khách hàng mới]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_text</key>
+      <value><![CDATA[Tôi là khách hàng mới, tôi chưa có một tài khoản.<br /><br />Với một tài khoản, bạn sẽ dễ dàng hơn trong việc mua hàng. Thông tin mua hàng của bạn sẽ được lưu lại giúp bạn mua sắm nhanh hơn, biết được tình trạng đơn đặt hàng, và theo dõi những đơn đặt hàng đã thực hiện.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_heading</key>
+      <value><![CDATA[Khách hàng cũ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_text</key>
+      <value><![CDATA[Tôi là một khách hàng cũ, và tôi đã có một tài khoản.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_password_forgotten</key>
+      <value><![CDATA[Bạn quên mật khẩu? <a href="%s">Nhấn vào đây</a>.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_login_no_match</key>
+      <value><![CDATA[Mật khẩu hoặc email không chính xác. Vui lòng nhập lại.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>date_added_to_shopping_cart</key>
+      <value><![CDATA[Ngày nhập: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>sign_out_text</key>
+      <value><![CDATA[Bạn đã đăng xuất thành công. Thông tin mua sắm của bạn đã được lưu lại, và sẽ hiển thị lại trong lần đăng nhập kế tiếp.<br /><br />Chúc vui vẻ. Kính chào!.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_title</key>
+      <value><![CDATA[Tài khoản của tôi]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>information_title</key>
+      <value><![CDATA[Thông tin]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>my_account_information</key>
+      <value><![CDATA[Xem và thay đổi thông tin.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_address_book</key>
+      <value><![CDATA[Xem và thay đổi danh mục địa chỉ.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_password</key>
+      <value><![CDATA[Thay đổi mật khẩu.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_title</key>
+      <value><![CDATA[Đơn hàng của tôi]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_view</key>
+      <value><![CDATA[Xem đơn hàng.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_title</key>
+      <value><![CDATA[Ghi chú của tôi]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_newsletters</key>
+      <value><![CDATA[Chấp nhận và không chấp nhận bản tin định kỳ.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_products</key>
+      <value><![CDATA[Xem và thay đổi danh mục sản phẩm quan tâm.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_password_title</key>
+      <value><![CDATA[Mật khẩu của tôi]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number</key>
+      <value><![CDATA[Số đơn hàng:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_status</key>
+      <value><![CDATA[Tình trạng đơn hàng:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date</key>
+      <value><![CDATA[Ngày đặt hàng:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_shipped_to</key>
+      <value><![CDATA[Chuyển đến:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_billed_to</key>
+      <value><![CDATA[Thanh toán:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_products</key>
+      <value><![CDATA[Sản phẩm:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_cost</key>
+      <value><![CDATA[Giá trị hóa đơn:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>no_orders_made_yet</key>
+      <value><![CDATA[Bạn chưa mua bất kỳ sản phẩm nào.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number_heading</key>
+      <value><![CDATA[Đơn hàng #%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date_heading</key>
+      <value><![CDATA[Ngày đặt hàng:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_total_heading</key>
+      <value><![CDATA[Tổng đơn hàng:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_history_heading</key>
+      <value><![CDATA[Lịch sử đơn hàng]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_heading</key>
+      <value><![CDATA[Link tải]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_link_expires</key>
+      <value><![CDATA[Link bị khóa: %s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_counter_remaining</key>
+      <value><![CDATA[tải phần con lại]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_subscriptions_heading</key>
+      <value><![CDATA[Bản tin định kỳ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general</key>
+      <value><![CDATA[Bản tin sơ lược]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general_description</key>
+      <value><![CDATA[Bao gồm tin tức kho hàng, sản phẩm mới, thông tin khuyến mãi và các quảng cáo khác.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications</key>
+      <value><![CDATA[Những sản phẩm đang quan tâm]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_description</key>
+      <value><![CDATA[Danh mục sản phẩm đang quan tâm cho phép bạn quay trở lại xem những sản phẩm mà bạn đã gặp và quan tâm đến nó.<br /><br />Để tham khảo tất cả các sản phẩm, chọn <b>Bản tin tổng quát sản phẩm</b>.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_global</key>
+      <value><![CDATA[Bản tin tổng quát sản phẩm]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_global_description</key>
+      <value><![CDATA[Nhận tin tức từ tất cả các sản phẩm.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products</key>
+      <value><![CDATA[Bản tin sản phẩm]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products_description</key>
+      <value><![CDATA[Để xóa một bản tin sản phẩm, bỏ chọn dòng "sản phẩm" và nhấn Tiếp tục]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products_none</key>
+      <value><![CDATA[Không có sản phẩm nào trong danh mục.<br /><br />Để thêm sản phẩm vào danh mục sản phẩm quan tâm, nhấn chọn vào liên kết Bản tin sản phẩm trong danh mục trang thông tin sản phẩm.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_title</key>
+      <value><![CDATA[Địa chỉ chính]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_description</key>
+      <value><![CDATA[Đây là địa chỉ sẽ gởi hàng và hóa đơn đến cho bạn.<br /><br />Địa chỉ này cũng được sử dụng cho những sản phẩm và dịch vụ khác.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_title</key>
+      <value><![CDATA[Mục địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_marker</key>
+      <value><![CDATA[(địa chỉ chính)]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_maximum_entries</key>
+      <value><![CDATA[<font color="#ff0000"><b>Lưu ý:</b></font> Tối đa %s mục địa chỉ cho phép.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_title</key>
+      <value><![CDATA[Xóa địa chỉ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_description</key>
+      <value><![CDATA[Bạn có chắc chắn muốn xóa địa chỉ đã chọn khỏi danh mục địa chỉ?]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_new_address_title</key>
+      <value><![CDATA[Địa chỉ mới]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>selected_address_title</key>
+      <value><![CDATA[Địa chỉ được chọn]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>set_as_primary</key>
+      <value><![CDATA[Chọn làm địa chỉ chính.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_heading</key>
+      <value><![CDATA[Điều khoản riêng]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_description</key>
+      <value><![CDATA[Nếu đồng ý với những điểu khoản riêng của chúng tôi, vui lòng đánh dấu chọn và ô bên dưới. Thông tin về điểu khoản riêng có thể đọc tại <a href="%s">đây</a>.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_confirm</key>
+      <value><![CDATA[Tôi đã đọc và chấp nhận những điểu khoản trên.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten_heading</key>
+      <value><![CDATA[Quên mật khẩu]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten</key>
+      <value><![CDATA[Nếu bạn đã quên mật khẩu, vui lòng điền địa chỉ email vào bên dưới. Chúng tôi sẽ gởi vào email của bạn mật khẩu mới.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_subject</key>
+      <value><![CDATA[Chào mừng %s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_body</key>
+      <value><![CDATA[Chúng tôi hân hạnh chào đón bạn đến %s!
+
+Bây giờ bạn đã có thể sử dụng những dịch vụ chúng tôi cung cấp:
+
+<li>Giỏ hàng - Bất kỳ sản phẩm nào được thêm vào giỏ hàng của bạn cũng tồn tại đến khi bạn bỏ chọn nó đi.
+<li>Địa chỉ - Chúng tôi có thể chuyển sản phẩm đến địa chỉ mà bạn mong muốn.
+<li>Lịch sử mua hàng - Xem những mặt hàng bạn đã giao dịch với chúng tôi.
+<li>Đánh giá sản phẩm - Chia sẻ quan điểm của bạn về một sản phẩm với những khách hàng khác.
+
+Để nhận giúp đỡ, vui lòng liên hệ email với chúng tôi: %s.]]></value>
+
+
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_male</key>
+      <value><![CDATA[Ông %s thân mến,]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_female</key>
+      <value><![CDATA[Cô %s thân mến,]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_unknown</key>
+      <value><![CDATA[%s thân mến,]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_subject</key>
+      <value><![CDATA[Mật khẩu gợi nhớ đến %s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_body</key>
+      <value><![CDATA[Một mật khẩu mới được yêu cầu từ %s.
+
+Mật khẩu mới của %s là:
+
+%s
+
+Mọi thắc mắc xin liên hệ: %s.
+
+Lưu ý: Nếu bạn không phải là người yêu cầu mật khẩu mới. Xin vui lòng liên hệ lại cho chúng tôi ngay lập tức.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_created</key>
+      <value><![CDATA[Chúc mừng! Bạn đã tạo tài khoản thành công. Bây giờ bạn có thể sự dụng các dịch vụ mà chúng tôi cung cấp. Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ email <a href="%s">Chủ cửa hàng</a>.<br /><br />Email xác nhận đã được gởi đến địa chỉ email bạn cung cấp. Nếu không nhận được email của chúng tôi trong vòng một giờ. Vui lòng liên hệ với chùng tôi.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_updated</key>
+      <value><![CDATA[Tài khoản của bạn vừa được cập nhật thành công!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_updated</key>
+      <value><![CDATA[Mật khẩu tài khoản vừa được cập nhật thành công!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_newsletter_updated</key>
+      <value><![CDATA[Thông tin đăng ký của bạn đã được cập nhật thành công!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_notifications_updated</key>
+      <value><![CDATA[Thông báo sản phẩm của bạn đã được cập nhật thành công!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_deleted</key>
+      <value><![CDATA[Địa chỉ được lựa chọn  đã được gỡ bỏ thành công từ sổ địa chỉ của bạn.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_updated</key>
+      <value><![CDATA[Sổ địa chỉ của bạn đã được cập nhật thành công.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_forgotten_sent</key>
+      <value><![CDATA[Thành công: Một mật khẩu mới đã được gửi đến địa chỉ email của bạn.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>warning_primary_address_deletion</key>
+      <value><![CDATA[Các địa chỉ chính không thể bị xóa. Xin vui lòng thiết lập một địa chỉ như là địa chỉ chính thức và thử lại.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_current_password_not_matching</key>
+      <value><![CDATA[Mật khẩu hiện tại của bạn không khớp với hồ sơ của chúng tôi. Xin vui lòng thử lại.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_entry_non_existing</key>
+      <value><![CDATA[Các mục nhập sổ địa chỉ không tồn tại.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_full</key>
+      <value><![CDATA[Sổ địa chỉ của bạn đã đầy. Xin vui lòng xoá một địa chỉ không cần thiết để lưu mới.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_password_forgotten_no_email_address_found</key>
+      <value><![CDATA[Lỗi: Các Địa chỉ e-mail đã không được tìm thấy trong hồ sơ của chúng tôi, xin vui lòng thử lại.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>warning_install_directory_exists</key>
+      <value><![CDATA[Thư mục Cài đặt tồn tại tại địa chỉ: %s. Xin vui lòng loại bỏ thư mục này vì lý do bảo mật.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_config_file_writeable</key>
+      <value><![CDATA[Tôi có thể viết vào cho tập tin cấu hình: %s. Đây là một rủi ro tiềm năng về an ninh - xin vui lòng thiết lập quyền cho phép người sử dụng vào tập tin này.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_non_existent</key>
+      <value><![CDATA[Các phiên thư mục không tồn tại: %s. Các phiên sẽ không hoạt động cho đến khi thư mục này được tạo ra.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_not_writeable</key>
+      <value><![CDATA[Tôi không thể viết vào phiên thư mục: %s. Các phiên họp sẽ không làm việc cho đến khi sự cho phép người sử dụng được đặt.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_auto_start</key>
+      <value><![CDATA[session.auto_start được kích hoạt - xin vui lòng vô hiệu hóa tính năng này trong php.ini và khởi động lại web chủ.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_download_directory_non_existent</key>
+      <value><![CDATA[Thư mục các sản phẩm tải về không tồn tại: %s. Các sản phẩm tải về sẽ không hoạt động cho đến khi thư mục này là hợp lệ.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout</key>
+      <value><![CDATA[Thanh Toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shopping_cart</key>
+      <value><![CDATA[Giỏ mua hàng]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping</key>
+      <value><![CDATA[Phương thức Vận chuyển]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping_address</key>
+      <value><![CDATA[Địa chỉ vận chuyển]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment</key>
+      <value><![CDATA[Hình thức thanh toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment_address</key>
+      <value><![CDATA[Địa chỉ thanh toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_confirmation</key>
+      <value><![CDATA[Xác nhận]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_success</key>
+      <value><![CDATA[Thành công!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_heading</key>
+      <value><![CDATA[Giỏ mua hàng]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_method_heading</key>
+      <value><![CDATA[Phương thức Vận chuyển]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_heading</key>
+      <value><![CDATA[Địa chỉ vận chuyển]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_heading</key>
+      <value><![CDATA[Phương thức thanh toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_address_heading</key>
+      <value><![CDATA[Địa chỉ thanh toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>confirmation_heading</key>
+      <value><![CDATA[Xác nhận]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>success_heading</key>
+      <value><![CDATA[Đơn đặt hàng của bạn đã được xử lý!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_title</key>
+      <value><![CDATA[Địa chỉ vận chuyển ]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_destination</key>
+      <value><![CDATA[Xin vui lòng chọn từ sổ địa chỉ của bạn nơi mà bạn muốn các món hàng sẽ được chuyển tới.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_shipping_destination</key>
+      <value><![CDATA[Đây là địa chỉ vận chuyển hiện tại được lựa chọn nơi các món hàng theo đơn đặt hàng sẽ được gửi đến.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_shipping_address_title</key>
+      <value><![CDATA[Địa chỉ vận chuyển:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>please_select</key>
+      <value><![CDATA[Vui lòng chọn]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_method_title</key>
+      <value><![CDATA[Phương thức vận chuyển]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_method</key>
+      <value><![CDATA[Để sử dụng phương pháp này .Xin vui lòng lựa chọn ưu tiên vận chuyển .]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_shipping_method_available</key>
+      <value><![CDATA[Hiện thời đây  là phương pháp vận chuyển duy nhất sẵn có đối với yêu cầu này.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>add_comment_to_order_title</key>
+      <value><![CDATA[Thêm ghi chú vào đơn đặt hàng]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>address_book_entries_title</key>
+      <value><![CDATA[Các mục trong sổ địa chỉ]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_shipping_destination</key>
+      <value><![CDATA[Xin vui lòng lựa chọn địa chỉ ưu tiên vận chuyển , nếu các món hàng theo đơn đặt hàng được gửi những nơi khác nhau.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_billing_destination</key>
+      <value><![CDATA[Xin vui lòng chọn địa chỉ thanh toán ưu tiên Nếu hóa đơn của đơn đặt hàng được phân phối đến nơi khác .]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address_title</key>
+      <value><![CDATA[Địa chỉ vận chuyển mới]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address</key>
+      <value><![CDATA[Xin vui lòng sử dụng mẫu dưới đây để tạo một địa chỉ mới vận chuyển để sử dụng cho các yêu cầu.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address_title</key>
+      <value><![CDATA[Địa chỉ thanh toán mới]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address</key>
+      <value><![CDATA[Xin vui lòng sử dụng mẫu dưới đây để tạo một địa chỉ thanh toán mới để sử dụng cho các yêu cầu.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>billing_address_title</key>
+      <value><![CDATA[Địa chỉ thanh toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_billing_destination</key>
+      <value><![CDATA[Đây là địa chỉ thanh toán hiện tại nơi mà hóa đơn sẽ được đưa đến.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_billing_destination</key>
+      <value><![CDATA[Xin vui lòng chọn từ sổ địa chỉ của bạn nơi mà bạn muốn các hóa đơn sẽ được gửi tới.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_billing_address_title</key>
+      <value><![CDATA[Dịa chỉ thanh toán:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_title</key>
+      <value><![CDATA[Tiếp tục thủ tục thanh toán ]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_shipping</key>
+      <value><![CDATA[Để lựa chọn phương thức vận chuyển ưa thích.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_payment</key>
+      <value><![CDATA[Để lựa chọn phương thức thanh toán ưa thích.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_confirmation</key>
+      <value><![CDATA[Để xác nhận đặt hàng này.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_empty</key>
+      <value><![CDATA[Giỏ hàng của bạn đang trống!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>subtotal_title</key>
+      <value><![CDATA[Tổng giá trị các sản phẩm:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>total_title</key>
+      <value><![CDATA[Tổng số:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_not_possible</key>
+      <value><![CDATA[Sản phẩm được đánh dấu bằng %s không tồn tại trong mong muốn của chúng tôi ở số lượng trong kho.<br />Xin vui lòng thay đổi số lượng của các sản phẩm được đánh dấu.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_possible</key>
+      <value><![CDATA[Sản phẩm được đánh dấu bằng %s không tồn tại trong mong muốn của chúng tôi ở số lượng trong kho.<br />Bạn có thể mua chúng bằng cách khác và kiểm tra số lượng chúng tôi có trong kho trong việc phân phối tức thời trong quá trình kiểm tra.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_title</key>
+      <value><![CDATA[Điều khoản và Điều kiện]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_description</key>
+      <value><![CDATA[Xin vui lòng xác nhận các điều khoản và điều kiện ràng buộc với yêu cầu của các box. Các điều khoản và điều kiện có thể được đọc <a href="%s"><u>here</u></a>.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_acknowledge</key>
+      <value><![CDATA[Tôi đã đọc và đồng ý với các điều khoản và điều kiện ràng buộc với yêu cầu này.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_title</key>
+      <value><![CDATA[Phương thức thanh toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_payment_method</key>
+      <value><![CDATA[Xin vui lòng lựa chọn phương thức thanh toán ưa thích để sử dụng yêu cầu này.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_payment_method_available</key>
+      <value><![CDATA[Đây là phương thức thanh toán hiện tại có sẵn cho yêu cầu này.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_delivery_address_title</key>
+      <value><![CDATA[Địa chỉ giao hàng]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_shipping_method_title</key>
+      <value><![CDATA[Phương thức Vận chuyển]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_products_title</key>
+      <value><![CDATA[Sản phẩm]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_tax_title</key>
+      <value><![CDATA[Thuế]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_total_title</key>
+      <value><![CDATA[Tổng số]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_billing_address_title</key>
+      <value><![CDATA[Địa chỉ thanh toán]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_method_title</key>
+      <value><![CDATA[Phương thức thanh toán]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_information_title</key>
+      <value><![CDATA[Thông tin thanh toán]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_comments_title</key>
+      <value><![CDATA[Thêm ý kiến vào đơn hàng]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_text_edit_title</key>
+      <value><![CDATA[(Chỉnh sửa)]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>email_order_subject</key>
+      <value><![CDATA[Quy trình đặt hàng]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_order_number</key>
+      <value><![CDATA[Số Đơn đặt hàng: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_invoice_url</key>
+      <value><![CDATA[Chi tiết hóa đơn: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_date_ordered</key>
+      <value><![CDATA[Ngày đặt hàng: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_status</key>
+      <value><![CDATA[Trạng thái đặt hàng: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_products</key>
+      <value><![CDATA[Các sản phẩm]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_delivery_address</key>
+      <value><![CDATA[Địa chỉ phân phát]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_billing_address</key>
+      <value><![CDATA[Địa chỉ hóa đơn]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_payment_method</key>
+      <value><![CDATA[Phương thức thanh toán]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_separator</key>
+      <value><![CDATA[------------------------------------------------------]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_processed_successfully</key>
+      <value><![CDATA[Bạn đã đặt hàng thành công! Hàng hóa của bạn sẽ đến trong khoảng 2-5 ngày.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>add_selection_to_product_notifications</key>
+      <value><![CDATA[Vui lòng thông báo việc cập nhật sản phẩm mà tôi lựa chọn bên dưới:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>view_order_history</key>
+      <value><![CDATA[Bạn có thể xem lịch sử đơn đặt hàng bằng cách tới trang <a href="%s">Tài Khoảng</a> và click vào đường dẫn <a href="%s">Lịch sử</a>.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>contact_store_owner</key>
+      <value><![CDATA[Bạn có thể gởi bất kỳ câu hỏi nào mà bạn có đến <a href="%s">chủ cửa hàng</a>.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>thanks_for_shopping_with_us</key>
+      <value><![CDATA[Cảm ơn vì sự mua sắm trực tuyến với chúng tôi!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>download_footer</key>
+      <value><![CDATA[Bạn có thể download sản phẩm của bạn lúc sau ở %s]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_information</key>
+      <value><![CDATA[Thông Tin]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_conditions</key>
+      <value><![CDATA[Điều kiện]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_contact</key>
+      <value><![CDATA[Liên hệ]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_privacy</key>
+      <value><![CDATA[Riêng tư]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shipping</key>
+      <value><![CDATA[Hải quan]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sitemap</key>
+      <value><![CDATA[Sitemap]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_cookie_usage</key>
+      <value><![CDATA[Cách sử dụng Cookie]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_ssl_check</key>
+      <value><![CDATA[Kiểm tra Bảo mật]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_heading</key>
+      <value><![CDATA[Thông Tin và Trợ giúp]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_conditions_heading</key>
+      <value><![CDATA[Điều khoảng và Điều kiện]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_contact_heading</key>
+      <value><![CDATA[Liên Hệ]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_privacy_heading</key>
+      <value><![CDATA[Ghi chú Cá nhân]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_shipping_heading</key>
+      <value><![CDATA[Vận chuyển và Trả lại hàng hóa]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_sitemap_heading</key>
+      <value><![CDATA[Sitemap]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_cookie_usage_heading</key>
+      <value><![CDATA[Sử dụng Cookie]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_ssl_check_heading</key>
+      <value><![CDATA[Kiểm tra Bảo mật]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>conditions</key>
+      <value><![CDATA[Đặt ra những thông tin yêu cầu.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact</key>
+      <value><![CDATA[Đặt ra những thông tin yêu cầu.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>privacy</key>
+      <value><![CDATA[Đặt ra những thông tin yêu cầu.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>shipping</key>
+      <value><![CDATA[Đặt ra những thông tin yêu cầu.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage</key>
+      <value><![CDATA[Trình duyệt của bạn không hỗ trợ Cookies, hoặc thiết lập Cookie ở trạng thái vô hiệu.<br /><br />Để tiếp tục việc mua sắm trực tuyến, Chúng tôi khuyên bạn nên bật chế độ Cookie ở trình duyệt.<br /><br />Đói với trình duyệt <b>Internet Explorer</b>, vui lòng làm theo hướng dẫn:<br /><ol><li>Click vào thanh menubar Tools , và chọn Internet Options</li><li>Chọn Tab  Security , và xác lập lại cấp độ security ở Medium</li></ol>Chúng tôi thực hiện phép đo tính bảo mật là vì lợi ích của bạn, và tạ lỗi nếu có bất kỳ sự rắc rối nào.<br /><br />Vui lòng liên hệ với chủ cửa hàng nếu bạn có bất kì câu hỏi nào liên quan đến nhu cầu này.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check</key>
+      <value><![CDATA[Chúng tôi cần kiểm tra rằng trình duyệt của bạn đã có sự khác biệt.<br /><br />Với việc đo lường tính bảo mật, bạn sẽ cẩn đăng nhập lại để tiếp tục mua sắm trực tuyến.<br /><br />Cần chắc chắc rằng trình duyệt cũ không có khả năng tạo ra được việc bảo đảm SSL Session ID một cách tự động mà chúng tôi yêu cầu. nêu bạn sử dụng trình duyệt này, Chúng tôi giới thiệu để bản chuyển đổi một số trình duyệt khác như <a href="http://www.microsoft.com/ie/" target="_blank">Microsoft Internet Explorer</a>, <a href="http://www.mozilla.com/firefox/" target="_blank">Firefox</a>, or <a href="http://www.opera.com" target="_blank">Opera</a> để tiếp tục công việc mua sắm.<br /><br />Chúng tôi thực hiện phép đo tính bảo mật là vì lợi ích của bạn, và tạ lỗi nếu có bất kỳ sự rắc rối nào.<br /><br />Vui lòng liên hệ với chủ cửa hàng nếu bạn có bất kì câu hỏi nào liên quan đến nhu cầu này.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_title</key>
+      <value><![CDATA[Thông tin liên hệ]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_store_address_title</key>
+      <value><![CDATA[Địa chỉ kho hàng]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_name_title</key>
+      <value><![CDATA[Tên đầy đủ:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_address_title</key>
+      <value><![CDATA[Địa chỉ Email:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_enquiry_title</key>
+      <value><![CDATA[Yêu cầu:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_sent_successfully</key>
+      <value><![CDATA[Yêu cầu của bạn đã được gởi thành công đến chủ cửa hàng.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_subject</key>
+      <value><![CDATA[Yêu cầu liên hệ]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account</key>
+      <value><![CDATA[Tài khoảng]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_edit</key>
+      <value><![CDATA[Thông Tin Tài khoảng]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_address_book</key>
+      <value><![CDATA[Sổ địa chỉ]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_history</key>
+      <value><![CDATA[Lịch sử đơn đặt hàng]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_notifications</key>
+      <value><![CDATA[Đóng góp thư thông báo]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_shopping_cart</key>
+      <value><![CDATA[Giỏ hàng]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_checkout_shipping</key>
+      <value><![CDATA[Checkout]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_advanced_search</key>
+      <value><![CDATA[Tìm kiếm nâng cao]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_products_new</key>
+      <value><![CDATA[Sản phẩm mới]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_specials</key>
+      <value><![CDATA[Đặc biệt]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_reviews</key>
+      <value><![CDATA[Nhận xét]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_heading</key>
+      <value><![CDATA[Cookie cá nhân và Bảo mật]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_contents</key>
+      <value><![CDATA[Cookie cần được thiết lập cho việc mua sắm trực tuyến ở cửa hàng này để  nắm lấy thông tin cá nhân và bảo mật cho sự viến thăm của bạn đối với cửa hàng chúng tôi.<br /><br />Với việc thiết lập Cookie cho trình duyệt của bạn,Việc truyền thông giữa bạn và trang này được tăng cường trở thành và  chắc chắn rằng chính bạn đã giải quyết vấn đề thay vì cho chúng tôi, và ngăn ngừa việc rò rĩ thông tin cá nhân của bạn.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_heading</key>
+      <value><![CDATA[Riêng Tư và Bảo mật]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_contents</key>
+      <value><![CDATA[Chúng tôi công nhận rằng  SSL Session ID được phát sinh một cách tự động bởi trình duyệt của bạn ở bất kỳ trang an toàn đã yêu cầu ở Server này.<br /><br />Hiệu lực này bảo đảm rằng bạn là người đang điều khiển ở website này cùng với tài khoảng của chính mình hay của một ai khác.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_new_products</key>
+      <value><![CDATA[Sản phẩm mới]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_specials</key>
+      <value><![CDATA[Đặt biệt]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews</key>
+      <value><![CDATA[Nhận xét]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews_new</key>
+      <value><![CDATA[Nhận xét mới]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_tell_a_friend</key>
+      <value><![CDATA[Kể cho bạn bè]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found_heading</key>
+      <value><![CDATA[Không tìm thấy Sản phẩm!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_new_products</key>
+      <value><![CDATA[Đây là những sản phẩm hiện tại không tồn tại.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_products_heading</key>
+      <value><![CDATA[Sản phẩm mới]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>specials_heading</key>
+      <value><![CDATA[Đặt biệt]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>reviews_heading</key>
+      <value><![CDATA[Nhận xét]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found</key>
+      <value><![CDATA[Không tìm thấy Sản phẩm!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>number_of_product_reviews</key>
+      <value><![CDATA[Nhận xét hiện tại:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>go_to_external_products_webpage</key>
+      <value><![CDATA[Để có nhiều thông tin, vui lòng đến thăm các sản phẩm ở <a href="%s" target="_blank">trang web</a>.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_availability</key>
+      <value><![CDATA[<font color="#ff0000">Sản phẩm sẽ ở tại kho hàng %s.</font>]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_attributes</key>
+      <value><![CDATA[Thuộc tính có sẵn:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>enlarge_image</key>
+      <value><![CDATA[Click để phóng to]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_added</key>
+      <value><![CDATA[Ngày thêm vào:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>manufacturer</key>
+      <value><![CDATA[Nhà sản xuất:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>price</key>
+      <value><![CDATA[Giá:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>average_rating</key>
+      <value><![CDATA[Đánh giá trung bình:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>rating_of_5_stars</key>
+      <value><![CDATA[%s của 5 sao!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_reviews_available</key>
+      <value><![CDATA[Không tìm thấy.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_review_title</key>
+      <value><![CDATA[Nhận xét mới]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_rating</key>
+      <value><![CDATA[Đánh giá:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_from</key>
+      <value><![CDATA[Từ:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_lowest_rating_title</key>
+      <value><![CDATA[Xấu]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_highest_rating_title</key>
+      <value><![CDATA[Tốt]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>customer_details_title</key>
+      <value><![CDATA[Thông tin chi tiết của bạn]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>friend_details_title</key>
+      <value><![CDATA[Thông tin chi tiết những người bạn của bạn]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>tell_a_friend_message</key>
+      <value><![CDATA[Tin nhắn của bạn]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_name</key>
+      <value><![CDATA[Tên của bạn:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_email_address</key>
+      <value><![CDATA[Địa chỉ email của bạn:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_name</key>
+      <value><![CDATA[Tên bạn của bạn:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_email_address</key>
+      <value><![CDATA[Địa chỉ email bạn của bạn:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_subject</key>
+      <value><![CDATA[Bạn của bạn %s đã được đề nghị sản phẩm này từ %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_intro</key>
+      <value><![CDATA[Chào %s!
+
+Bạn của bạn, %s, bạn sẽ được quan tâm %s từ %s.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_link</key>
+      <value><![CDATA[Để xem sản phẩm click vào link bên dưới hoăc copy và paste link vào trình duyệt wed của bạn:
+
+%s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_signature</key>
+      <value><![CDATA[Regards,
+
+%s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_new</key>
+      <value><![CDATA[Cảm ơn về nhận xét của bạn! Nó đã đươc nhận và bây giờ sẽ có hiệu lực!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_moderation</key>
+      <value><![CDATA[Cảm ơn về nhận xét của bạn! Nó đã đươc nhận và đang chờ sự phê chuẩn.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_tell_a_friend_email_sent</key>
+      <value><![CDATA[Email của bạn %s đã được gửi thành công tới %s.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_friends_name_empty</key>
+      <value><![CDATA[Lỗi: Tên bạn của bạn không được rỗng.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_invalid_friends_email_address</key>
+      <value><![CDATA[Lỗi: Địa chỉ email bạn của bạn phải là 1 địa chỉ thực.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_customers_name_empty</key>
+      <value><![CDATA[Lỗi: tên của bạn không được rỗng.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_invalid_customers_email_address</key>
+      <value><![CDATA[Lỗi: Địa chỉ email cua bạn phải 1 địa chỉ thực.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search</key>
+      <value><![CDATA[Tìm kiếm]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search_results</key>
+      <value><![CDATA[Kết quả]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_heading</key>
+      <value><![CDATA[Tìm kiếm]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>advanced_search_heading</key>
+      <value><![CDATA[Tìm kiếm nâng cao]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_results_heading</key>
+      <value><![CDATA[Kết quả tìm kiếm]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_criteria_title</key>
+      <value><![CDATA[Tiêu chuẩn tìm kiếm]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_categories</key>
+      <value><![CDATA[Loại:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_recursive</key>
+      <value><![CDATA[Bao gồm các nhóm nhỏ]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_manufacturers</key>
+      <value><![CDATA[Hãng sản xuất:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_from</key>
+      <value><![CDATA[Giá từ:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_to</key>
+      <value><![CDATA[Giá đến:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_from</key>
+      <value><![CDATA[Từ ngày:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_to</key>
+      <value><![CDATA[Đến ngày:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_tips</key>
+      <value><![CDATA[Trợ giúp tìm kiếm]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_heading</key>
+      <value><![CDATA[Trợ giúp tìm kiếm]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help</key>
+      <value><![CDATA[Keywords may be separated by AND and/or OR statements for greater control of the search results.<br /><br />For example, <u>Microsoft AND mouse</u> would generate a result set that contain both words. However, for <u>mouse OR keyboard</u>, the result set returned would contain both or either words.<br /><br />Exact matches can be searched for by enclosing keywords in double-quotes.<br /><br />For example, <u>"notebook computer"</u> would generate a result set which match the exact string.<br /><br />Brackets can be used for further control on the result set.<br /><br />For example, <u>Microsoft and (keyboard or mouse or "visual basic")</u>.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>close_window</key>
+      <value><![CDATA[Đóng cửa sổ]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_search_at_least_one_input</key>
+      <value><![CDATA[Ít nhất một trong các lĩnh vực tìm kiếm trong các hình thức phải được nhập.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_from_date</key>
+      <value><![CDATA[Từ ngày không hợp lệ.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_to_date</key>
+      <value><![CDATA[Đến ngày không hợp lệ.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_to_date_less_than_from_date</key>
+      <value><![CDATA[Ngày đến phải lớn hơn từ ngày.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_from_not_numeric</key>
+      <value><![CDATA[Giá sàn phải là 1 con số.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_not_numeric</key>
+      <value><![CDATA[Giá phải là một con số.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_less_than_price_from</key>
+      <value><![CDATA[Giá phải lớn hơn hoặc bằng giá sàn.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_keywords</key>
+      <value><![CDATA[Từ khóa không có giá trị.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>js_review_text</key>
+      <value><![CDATA[* Bảng nhận xét phải có ít nhất %s kí tự.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_review_rating</key>
+      <value><![CDATA[* Bạn phải đánh giá sản phẩm trước khi nhận xét.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_no_payment_module_selected</key>
+      <value><![CDATA[* Vui lòng chọn phương thức thanh toán cho đơn đặt hàng của bạn.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_no_payment_module_selected</key>
+      <value><![CDATA[Vui lòng chọn phương thức thanh toán cho đơn đặt hàng của bạn.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_conditions_not_accepted</key>
+      <value><![CDATA[Xin vui lòng xác nhận các điều khoản và điều kiện ràng buộc với thứ tự bằng cách đánh dấu vào ô dưới đây.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_privacy_statement_not_accepted</key>
+      <value><![CDATA[Please confirm the privacy statement by ticking the box below.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender</key>
+      <value><![CDATA[Giới tính:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender_error</key>
+      <value><![CDATA[Vui lòng chọn giới tính của bạn.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name</key>
+      <value><![CDATA[Tên:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name_error</key>
+      <value><![CDATA[Tên của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name</key>
+      <value><![CDATA[Họ:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name_error</key>
+      <value><![CDATA[Họ chủ bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth</key>
+      <value><![CDATA[Ngày:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth_error</key>
+      <value><![CDATA[Ngày sinh của bạn phải được thiết lập đúng.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address</key>
+      <value><![CDATA[Địa chỉ email:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_error</key>
+      <value><![CDATA[Địa chỉ email của ban phải chứa tối thiểu %S kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_check_error</key>
+      <value><![CDATA[Địa chỉ email của bạn không tồn tại - Vui lòng hiệu chỉnh lại.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_exists_error</key>
+      <value><![CDATA[Địa chỉ email của bạn đã được sử dụng - Vui lòng đăng nhập bằng địa chỉ email này hoăc tạo một tài khoản khác với địa chỉ khác.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company</key>
+      <value><![CDATA[Tên công ty:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company_error</key>
+      <value><![CDATA[Công ty của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address</key>
+      <value><![CDATA[Địa chỉ đường:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address_error</key>
+      <value><![CDATA[Địa chỉ đường của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb</key>
+      <value><![CDATA[Suburb:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb_error</key>
+      <value><![CDATA[Your Suburb must contain a minimum of %s characters.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code</key>
+      <value><![CDATA[Mã bưu điện:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code_error</key>
+      <value><![CDATA[Mã bưu điện của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city</key>
+      <value><![CDATA[Thành phố:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city_error</key>
+      <value><![CDATA[Thành phố của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state</key>
+      <value><![CDATA[Bang/Tỉnh:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_error</key>
+      <value><![CDATA[Your State must contain a minimum of %s characters.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_select_pull_down_error</key>
+      <value><![CDATA[Please select a state from the States pull down menu.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country</key>
+      <value><![CDATA[Quốc gia:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country_error</key>
+      <value><![CDATA[Bạn phải lựa chọn quốc gia trong khung điều khiển.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number</key>
+      <value><![CDATA[Số điện thoại:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number_error</key>
+      <value><![CDATA[Số điện thoại của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number</key>
+      <value><![CDATA[Số fax:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number_error</key>
+      <value><![CDATA[Số fax của bạn phải chúa tối thiểu  %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_newsletter</key>
+      <value><![CDATA[Bản tin:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password</key>
+      <value><![CDATA[Mật khẩu:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_error</key>
+      <value><![CDATA[Mật khẩu của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_mismatch_with_confirmation</key>
+      <value><![CDATA[Mật khẩu xác nhận phải phù hợp với mật khẩu của bạn.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_confirmation</key>
+      <value><![CDATA[Xác nhận mật khẩu:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current</key>
+      <value><![CDATA[Mật khẩu hiện tại:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current_error</key>
+      <value><![CDATA[Mật khẩu của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new</key>
+      <value><![CDATA[Mật khẩu mới:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new_error</key>
+      <value><![CDATA[Mật khẩu mới của bạn phải chứa tối thiểu %s kí tự.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new_mismatch_with_confirmation_error</key>
+      <value><![CDATA[Mật khẩu xác nhận phải đúng với mật khẩu mới của bạn.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>reviewed_by</key>
+      <value><![CDATA[Bởi %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_rating</key>
+      <value><![CDATA[Đánh giá: %s [%s]]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_date_added</key>
+      <value><![CDATA[Date Added: %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>credit_card_number_error</key>
+      <value><![CDATA[Số của thẻ tín dụng nhập vào không có giá trị.<br />Vui lòng kiểm tra lại số thẻ.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>maximum_file_upload_size</key>
+      <value><![CDATA[(Tối đa: %s)]]></value>
+      <group>general</group>
+    </definition>
+  </definitions>
+</language>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_ipayment_title</key>
+      <value><![CDATA[iPayment]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_description</key>
+      <value><![CDATA[Kiểm tra thông tin thẻ tín dụng:<br /><br />CC#: 4111111111111111<br />Thời hạn: Bất kỳ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_error_heading</key>
+      <value><![CDATA[Có một lỗi đã được xử lý thẻ tín dụng của bạn]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_error_message</key>
+      <value><![CDATA[Xin vui lòng kiểm tra thông tin chi tiết thẻ tín dụng của bạn!]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_credit_card_owner</key>
+      <value><![CDATA[Chủ sở hữu thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_credit_card_number</key>
+      <value><![CDATA[Số thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_credit_card_expiry_date</key>
+      <value><![CDATA[Thời hạn Thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_credit_card_checknumber</key>
+      <value><![CDATA[Kiểm tra số thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_credit_card_checknumber_location</key>
+      <value><![CDATA[(đặt tại mặt sau của thẻ tín dụng)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_js_credit_card_owner</key>
+      <value><![CDATA[* Tên chủ sở hữu của thẻ tín dụng phải có ít nhất %s ký tự.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_js_credit_card_number</key>
+      <value><![CDATA[* Số thẻ tín dụng phải có ít nhất %s ký tự.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_ipayment_credit_card_type</key>
+      <value><![CDATA[Loại thẻ tín dụng:]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

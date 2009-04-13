@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_saferpay_vt_title</key>
+      <value><![CDATA[Saferpay Virtual Terminal]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_vt_description</key>
+      <value><![CDATA[Những dịch vụ Saferpay Virtual Terminal]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_vt_method_title</key>
+      <value><![CDATA[Thẻ tín dụng]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saferpay_vt_error_general</key>
+      <value><![CDATA[Có một vấn đề này xử lý đơn đặt hàng. Xin vui lòng kiểm tra thông tin thanh toán và thử lại.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

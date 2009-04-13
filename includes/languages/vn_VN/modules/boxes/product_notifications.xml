@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_product_notifications_heading</key>
+      <value><![CDATA[Thông tin sản phẩm]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_product_notifications_add</key>
+      <value><![CDATA[Nhắc nhở cập nhật tới %s]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_product_notifications_remove</key>
+      <value><![CDATA[Xóa nhắc nhở tới %s]]></value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>
