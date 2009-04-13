@@ -3,7 +3,7 @@
   <data>
     <title><![CDATA[Vietnam]]></title>
     <code><![CDATA[vn_VN]]></code>
-    <locale><![CDATA[vn_VN.UTF-8,vn_VN,vietnam]]></locale>
+    <locale><![CDATA[en_US.UTF-8,en_US,english]]></locale>
     <character_set><![CDATA[utf-8]]></character_set>
     <text_direction><![CDATA[ltr]]></text_direction>
     <date_format_short><![CDATA[%d/%m/%Y]]></date_format_short>
