@@ -75,15 +75,7 @@
 
   echo '    <li><span></span><span>' . $osC_Language->get('header_title_help') . '</span>' .
        '      <ul>' .
-       '        <li><span>' . osc_icon('oscommerce.png') . '</span><span>' . $osC_Language->get('header_title_oscommerce_support_site') . '</span>' .
-       '          <ul>' .
-       '            <li><span>' . osc_icon('oscommerce.png') . '</span><a href="http://www.oscommerce.com" target="_blank">Support Site</a></li>' .
-       '            <li><span>' . osc_icon('log.png') . '</span><a href="http://www.oscommerce.info" target="_blank">Knowledge Base</a></li>' .
-       '            <li><span>' . osc_icon('people.png') . '</span><a href="http://forums.oscommerce.com" target="_blank">Community Forums</a></li>' .
-       '            <li><span>' . osc_icon('run.png') . '</span><a href="http://www.oscommerce.com/community/contributions" target="_blank">Contributions</a></li>' .
-       '            <li><span>' . osc_icon('configure.png') . '</span><a href="http://svn.oscommerce.com/jira" target="_blank">Bug Reporter</a></li>' .
-       '          </ul>' .
-       '        </li>' .
+       '        <li><span>' . osc_icon('oscommerce.png') . '</span><a href="http://groups.google.com/group/t3h_uit" target="_blank">'. $osC_Language->get('header_title_oscommerce_support_site') . '</a></li>' .
        '        <li><span>' . osc_icon('locale.png') . '</span><span>' . $osC_Language->get('header_title_languages') . '</span>' .
        '          <ul>';
 
