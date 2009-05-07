@@ -72,7 +72,7 @@
           break;
         case 'PRODUCT_LIST_PRICE':
           $lc_text = $osC_Language->get('listing_price_heading');
-          $lc_key = 'price';
+          $lc_key = '';
           $lc_align = 'right';
           break;
         case 'PRODUCT_LIST_QUANTITY':
