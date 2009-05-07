@@ -24,7 +24,7 @@
 ?>
 
 <div class="moduleBox">
-  <h6><?php echo $osC_Language->get('my_account_title'); ?></h6>
+    <h6><?php echo $osC_Language->get('my_account_title'); ?></h6>
 
   <div class="content">
     <?php echo osc_image(DIR_WS_IMAGES . 'account_personal.gif', $osC_Language->get('my_account_title'), null, null, 'style="float: left;"'); ?>
