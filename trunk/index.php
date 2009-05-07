@@ -22,5 +22,5 @@
 
   require('templates/' . $osC_Template->getCode() . '.php');
 
-  require('includes/application_bottom.php');
+  //require('includes/application_bottom.php');
 ?>
