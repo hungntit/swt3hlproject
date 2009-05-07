@@ -259,45 +259,22 @@
 ?>
 
 <div id="pageHeader">
-
+<div>
 <?php
     echo osc_link_object(osc_href_link(FILENAME_DEFAULT), osc_image(DIR_WS_IMAGES . 'store_logo.jpg', STORE_NAME), 'id="siteLogo"');
 ?>
-
-  <ul id="navigationIcons">
-
-<?php
-    echo '<li>' . osc_link_object(osc_href_link(FILENAME_ACCOUNT, null, 'SSL'), osc_image(DIR_WS_IMAGES . 'header_account.gif', $osC_Language->get('my_account'))) . '</li>' .
-         '<li>' . osc_link_object(osc_href_link(FILENAME_CHECKOUT, null, 'SSL'), osc_image(DIR_WS_IMAGES . 'header_cart.gif', $osC_Language->get('cart_contents'))) . '</li>' .
-         '<li>' . osc_link_object(osc_href_link(FILENAME_CHECKOUT, 'shipping', 'SSL'), osc_image(DIR_WS_IMAGES . 'header_checkout.gif', $osC_Language->get('checkout'))) . '</li>';
-?>
-
-  </ul>
-
-  <div id="navigationBar">
-
-<?php
-    if ($osC_Services->isStarted('breadcrumb')) {
-?>
-
-    <div id="breadcrumbPath">
-
-<?php
-      echo $osC_Breadcrumb->getPath();
-?>
-
-    </div>
-
-<?php
-    }
-
-    if ($osC_Customer->isLoggedOn()) {
-      echo osc_link_object(osc_href_link(FILENAME_ACCOUNT, 'logoff', 'SSL'), $osC_Language->get('sign_out')) . ' &nbsp;|&nbsp; ';
-    }
-
-    echo osc_link_object(osc_href_link(FILENAME_ACCOUNT, null, 'SSL'), $osC_Language->get('my_account')) . ' &nbsp;|&nbsp; ' . osc_link_object(osc_href_link(FILENAME_CHECKOUT, null, 'SSL'), $osC_Language->get('cart_contents')) . ' &nbsp;|&nbsp; ' . osc_link_object(osc_href_link(FILENAME_CHECKOUT, 'shipping', 'SSL'), $osC_Language->get('checkout'));
-?>
-
+</div>
+  <div>
+        <table id="navigationBar">
+            <tr>
+            <?php if ($osC_Customer->isLoggedOn())
+            echo "<td id=\"navigationTab\">".osc_link_object(osc_href_link(FILENAME_ACCOUNT, 'logoff', 'SSL'), $osC_Language->get('sign_out'))."</td>";
+            ?>
+                <td id="navigationTab"><?php echo osc_link_object(osc_href_link(FILENAME_ACCOUNT, null, 'SSL'), $osC_Language->get('my_account'));?></td>
+                <td id="navigationTab"><?php echo osc_link_object(osc_href_link(FILENAME_CHECKOUT, null, 'SSL'), $osC_Language->get('cart_contents'));?></td>
+                <td id="navigationTab"><?php echo osc_link_object(osc_href_link(FILENAME_CHECKOUT, 'shipping', 'SSL'), $osC_Language->get('checkout'));?></td>
+            </tr>
+        </table>
   </div>
 </div>
 
