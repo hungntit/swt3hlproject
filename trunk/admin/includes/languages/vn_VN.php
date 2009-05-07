@@ -12,7 +12,7 @@
 administration_title = Công cụ quản trị
 
 header_title_help = Giúp đỡ
-header_title_oscommerce_support_site = Hỗ trợ trang web
+header_title_oscommerce_support_site = Trang web hỗ trợ
 header_title_online_catalog = Danh mục online
 header_title_languages = Ngôn ngữ
 header_title_logoff = Đăng xuất
